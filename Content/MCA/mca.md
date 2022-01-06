@@ -22,13 +22,12 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 -	Prof. Jasbir Singh Saini is Life Member of Computer Society of India, Navi Mumbai.
 -	Prof. Jasbir Singh Saini is Charted Engineer of Institution of Engineers (I), Kolkata- F-1215525.
 
-## Publications  
 
--	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
+## Event Organized
 
-## Events Organized 
-
--	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
+| Sr. No. | Name of Event                                                                                                                 | Faculty Coordinator                                           | Duration | Date(s)                | Sponsor(s)                                     |
+|:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
+| 1       |  Student Development Program  on Enhancing Student's Employability through Interdisciplinary Engagement           | Mr. Dinesh Anand | Two Week | 01-15 February, 2021   | TEQIP-III |
 
 ## Placements  
 
