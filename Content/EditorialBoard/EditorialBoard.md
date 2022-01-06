@@ -18,6 +18,7 @@
 - [Dr. Amit Jain (CSE)](https://gndec.ac.in/faculty/?id=332)
 - [Er. Harpreet Kaur (IT)](https://gndec.ac.in/faculty/?id=231)
 - [Dr. Navdeep Kaur (MBA)](https://gndec.ac.in/faculty/?id=169)
+- [Er. Jaswant Singh (MCA and Cultural)](https://gndec.ac.in/faculty/?id=333)
 - [Dr. Nandini Sharma (App. Sci.)](Profiles/Nandini.md)
 - [Ar. Navjot Kaur (SoA)](Profiles/Navjot.md)
 - [Dr. Gunjan Bhardwaj (Sports)](https://gndec.ac.in/faculty/?id=33)
