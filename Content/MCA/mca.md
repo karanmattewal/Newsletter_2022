@@ -32,4 +32,6 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 
 ## Placements  
 
--	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
+-	Khushi Singla student of MCA placed in Cognizant and TCS
+-	Prabhjot Kaur and Nidhi Jha students of MCA placed in Seasia Infotech
+
