@@ -15,9 +15,21 @@ The M.C.A. helps in providing the I.T. and Computer Industry with world-class ta
 The success of the M.C.A. is attributed to its motivating and inspiring faculty members who handle subjects like Artificial Intelligence, Software Quality Management, Computer Networks, Mobile Computing, Distributed Computing and much more.
 
 
-## Faculty Achievements  
+## Faculty Achievements
 
 -	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
 -	Prof. Jasbir Singh Saini is Fellow of Institution of Engineers (I), Kolkata- F-1215525.
 -	Prof. Jasbir Singh Saini is Life Member of Computer Society of India, Navi Mumbai.
 -	Prof. Jasbir Singh Saini is Charted Engineer of Institution of Engineers (I), Kolkata- F-1215525.
+
+## Publications  
+
+-	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
+
+## Events Organized 
+
+-	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
+
+## Placements  
+
+-	Prof. Jasbir Singh Saini is Life Member of Indian Society for Technical Education, New Delhi- LM-38794.
