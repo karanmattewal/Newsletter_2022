@@ -1,4 +1,4 @@
-![1](Images/Staff/1.jpg)
+![1](Images/Staff/1.JPG)
 
 ![1](Images/Staff/2.JPG)
 
@@ -14,14 +14,26 @@
 
 ![1](Images/Staff/8.JPG)
 
-![1](Images/Staff/9.JPG)
+![1](Images/Staff/9.jpeg)
 
-![1](Images/Staff/10.JPG)
+![1](Images/Staff/10.jpeg)
 
-![1](Images/Staff/11.JPG)
+![1](Images/Staff/11.jpeg)
 
-![1](Images/Staff/12.JPG)
+![1](Images/Staff/12.jpeg)
 
-![1](Images/Staff/13.JPG)
+![1](Images/Staff/13.jpeg)
 
-![1](Images/Staff/14.JPG)
+![1](Images/Staff/15.jpeg)
+
+![1](Images/Staff/16.jpeg)
+
+![1](Images/Staff/17.jpeg)
+
+![1](Images/Staff/18.jpeg)
+
+![1](Images/Staff/19.jpeg)
+
+![1](Images/Staff/20.jpeg)
+
+![1](Images/Staff/21.jpeg)

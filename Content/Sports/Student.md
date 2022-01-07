@@ -1,21 +1,23 @@
 # Inter-year League/Knockout Tournaments-2021
 
-![1](Images/Student/1.JPG)
+![1](Images/Students/1.JPG)
 
-![1](Images//2.jpg)
+![1](Images/Students/2.JPG)
 
-![1](Images/Ath/3.jpg)
+![1](Images/Students/3.JPG)
 
-![1](Images/Ath/4.jpg)
+![1](Images/Students/4.JPG)
 
-![1](Images/Ath/5.jpg)
+![1](Images/Students/5.JPG)
 
-![1](Images/Ath/6.JPG)
+![1](Images/Students/6.JPG)
 
-![1](Images/Ath/7.jpg)
+![1](Images/Students/7.JPG)
 
-![1](Images/Ath/8.JPG)
+![1](Images/Students/8.JPG)
 
-![1](Images/Ath/9.JPG)
+![1](Images/Students/9.JPG)
 
-![1](Images/Ath/10.JPG)
+![1](Images/Students/10.JPG)
+
+![1](Images/Students/11.JPG)
