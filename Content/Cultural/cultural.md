@@ -8,6 +8,8 @@
 
 ## Department at Glimpse
 
+<div align="justify">
+
 The Cultural Committee of Guru Nanak Dev Engineering College is a fusion of Cultural and fine arts committee. It celebrates the social decent as well as cultural diversity in the campus by organizing various festivals and events. The committee guarantees that the students have a home-away-from-home involvement and experience at the campus. The committee gives enough chances to the students to relax and enjoy campus life in the midst of thorough academics.
 
 The students of the college come from diversified backgrounds, the committee helps to unite and learn each other’s cultural diversity. We understand the importance of cultural sensitivity in today's world and the cultural committee makes the young leaders at GNDEC sensitive to each other's culture.
@@ -20,18 +22,27 @@ The team organizes various cultural activities round the year to keep the spirit
 
 The committee seeks to create a platform that provides the students with an opportunity to display creative talents in a variety of ways.
 
+</div>
+
 ## Infrastructure
 ### **Auditorium**
 ![HSR](Images/main-auditorium.jpg)
 
+<div align="justify">
+
 The auditorium is a central and important space in any organization lucky enough to have one. It is used for all types of formal assembly: lectures, award ceremonies, dramatic plays, musical theatre productions, Dance, and Literary competitions and so on. These varied events place a range of demands on the room. For all events, it is essential that everyone in the room hear, clearly and enjoyably, everything that is presented. This is the goal of acoustical design for auditorium spaces. Capacity of Auditorium is 650
+
+</div>
 
 ### **Open Air Theatre**
 ![HSR](Images/open-air-theatre.jpg)
 
+<div align="justify">
 Open air theatre is a central point of attraction for the students where various events are organized. It is used for all types Cultural Activities - Dance, Theatre, Music and Literary competitions and so on. Capacity of Auditorium is 3500. Annual Cultural Function - Anand Utsav is also organized in Open Air Theatre
+</div>
 
 ## Achievements
+
 - 2020  
     - College Bhangra Team participated in National Youth Festival held at Amity University, Noida
 
