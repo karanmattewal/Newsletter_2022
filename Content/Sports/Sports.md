@@ -20,15 +20,9 @@ The Sports department works on promotion of personal and professional developmen
 - [Intra-murals](Intra.md)
 - [Extra-murals](Extra.md)
 
-## Achievements  
-
-- The college won **IKG PTU Over All Combined Championship Trophy** both in session 2018-19 &19-20.Rs.2 lac for each session was awarded consecutively by IKGPTU, Kapurthala for this outstanding achievements.The college is reigning this Trophy from the last 17 years consecutively.  
-
-![1](Images/overall.JPG)
-
 ## News
 
-![1](Images/News/1.jpg)
+![1](Images/News/14.jpg)
 
 
 ## Events Organized   
@@ -39,6 +33,7 @@ The Sports department works on promotion of personal and professional developmen
 | 1.       | GNE Female Staff Cricket Tournament| Dr Gunjan Bhardwaj & S.Suminder Singh | 1day | 30th March, 2021  | Sports Fund |
 | 2.       | GNE Teaching Male Staff Cricket Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh |1 day  | 31th March, 2021  | Sports fund |
 |3.         | GNE Teaching Male Staff Cricket Tournament|  S.Suminder Singh | One Day |1st April, 2021  |Sports Fund |
+|4.        | 15Km Cycling From GNE to KAIND PUll and back | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |7th April, 2021  | Sports Fund|
 |4.        | International Yoga Day | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |21th June, 2021  | Punjab Runners |
 |5.         |GNE Inter-year Football League Tournament  | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |28th to 30th September, 2021  |Sports Fund|
 |6.         |GNE Inter-year Basketball League Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |4th to 6th October, 2021  | Sports Fund |
