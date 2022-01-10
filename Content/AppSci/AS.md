@@ -62,7 +62,8 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Pragya Goyal**
 
-![PG](Images/pragya.JPG)
+![PG](Images/pragyam.jpg)
+
 - Webinar on  “ *Importance of Management Principles*” Conducted by the ECE  Department, KCG College of Technology, Chennai .
 - Short term online course on " *Nanotechnology for electronic and photonic devices*" of duration one week conducted by PEC, Chandigarh.
 - TEQIP III sponsored webinar on "*Women Safety, Rights and Gender Equality*” conducted by GNDEC, Ludhiana.
@@ -71,7 +72,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Sukhminder Singh**
 
- ![HSR](Images/sukh.JPG)
+![PG](Images/sukh.jpg)
 
 - Topped in Engineering Mathematics course conducted by NPTEL, 12 week course, September-December 2020, with a consolidated score of 90% and received Elite+Gold certificate.
 - Successfully completed Laplace Transform course conducted by NPTEL (4 weeks course), September-October 2020, with a consolidated score of 75% and received Elite+Silver certificate.
@@ -89,7 +90,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Dr Sandeep Kaur Gill**
 
- ![HSR](Images/ssgne.JPG)
+ ![HSR](Images/ssgne.jpeg)
 
 - Published 8 Research papers in reputed UGC approved journals
 - Presented research paper on "Classes of  - convergence Fourier series" International Conference on Mathematical Advances and Applications 2020 , REd Talks Daily International. (August 07-08, 2020).
@@ -122,7 +123,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Dr. Amanpreet Kaur Sodhi**
 
-  ![HSR](Images/apk.JPG)
+  ![HSR](Images/apk.jpg)
 
 - Research paper Effect of Integrating industrial and agricultural wastes on concrete performance with and without microbial activity is published in SCI journal - "Environmental science and pollution Research
 - The 'Student Induction Program ' for btech first year students was organised and conducted in nov 2021
@@ -147,7 +148,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Karan Bhalla**
 
-![KB](Images/karanbhalla.JPG)
+![KB](Images/karanbhalla.jpg)
 
 - Completed Course work of PhD and obtained 9.80 SGPA with first RANK in University.
 - Working as Reviewer of Research Paper (3) for Iranian Journal of Chemistry and Chemical Engineering.
@@ -851,7 +852,7 @@ Bengal, India.
 
 **Dr. Rajvir Kaur**
 
- ![KB](Images/rajvirgnee.JPG)
+ ![KB](Images/rajvirgnee.jpg)
 
 - Published a research article, Rajvir Kaur and Harpreet Kaur, “Electrochemical Oxidation of Amido black 10B under Amperostatic conditions with vertically Oriented Graphite/Platinum Electrodes” Springer Publication Proceedings, Lecture Notes in Civil Engineering Sustainable Development through Engineering Innovations September17-19, 2020.
 - Delivered the Lectures at Atal Bihari Vajpayee Govt. Institute of Engineering & Technology, Pragtinagar, Shimla (H.P) from 17-21st February, 2020.
@@ -873,7 +874,7 @@ Bengal, India.
 
 **Mandeep Kaur**
 
-![KB](Images/mandeepk.JPG)
+![KB](Images/mandeepk.jpg)
 
 - Published 3 research articles in reputed SCI and Scopus indexed international journals.
 - Attended FDP ON “ ICT INITIATIVE IN TECHNICAL EDUCATION” , organised by GNDEC, Ludhiana.
@@ -884,7 +885,7 @@ Bengal, India.
 
 **Puneet Narang**
 
-![KB](Images/puneet.JPG)
+![KB](Images/puneet.jpg)
 
 - Webinar on Women Safety Rights and Gender Equality, organised by GNDEC, TEQIP-III, July 9,2020.
 - Attended National seminar on COVID-19 Mental Health, Solutions and Strategies, organised by Hindu College, Kapurthala,July 18, 2020.
@@ -894,7 +895,7 @@ Bengal, India.
 
 **Amandeep Singh Bal**
 
-![KB](Images/balsir.JPG)
+![KB](Images/balsir.jpg)
 - Topped in effective writing course conducted by NPTEL and scored 83% with ELITE+SILVER certificate, January-February 2020.
 - Attended One Week FDP on Pedagogical Tools and Techniques – Effective Teaching & Comprehensive Progress organized by GNDEC, Ludhiana.
 - Attended One Week FDP on Energy Conservation and Management
