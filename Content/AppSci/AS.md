@@ -826,86 +826,28 @@ Educational Tools”  on 3rd and 4th August 2020 organized by UCoE, Adikavi Nann
 - Attended Webinar on “Principals and IQAC Coordinators Meet” on 28th amd 29th May 2021 organized by MasterSoft ERP Solutions Pvt. Ltd., Nagpur.
 - Attended Webinar on “Impact of Climate Change” on 5th June 2021 organized by Dept. of Chemistry, SRM Institute of Science and Technology, Chennai.
 - Attended Webinar on “Recent Trends in Applications of Raman Spectroscopy” on 7th June 2021 organized by PG Dept. of Chemistry, St. Antony’s College of Arts & Science for Women, Dindigul.
-
-     290.  Attended Webinar on “Cyber Crimes and Cyber Laws” on 8th June 2021 organized
-              by Institute of Excellence in Management Science, Hubli in association with
-              Vivekanand Institute of Management, Kalaburgi.
-
-     291.  Attended National Webinar on “Environment and Sustainable Development”
-              held on 24th June, 2021 in association with Center for Environmental Education and  
-              Ecological development (CEEED), India, World Environment organization (WEO)
-              & Prakruthi – Environmental Club of Lakireddy Bali Reddy College of Engineering,
-              Mylavaram.
-
-     292.  Attended Webinar on “ "HAMARA TEJAS"- India's own 4th Gen Fighter” held
-              on 24th June 2021 organized by Department of Electronics and Communication
-              Engineering at Dr. Ambedkar Institute of Technology, Bengaluru.
-
-     293.  Attended International Webinar on “Nanostructures for Applications Fabricated
-              via the Electrospinning Technique” on 24th June 2021 organized by Dept. of
-              Physics, St. Mary’s College, Thoothukudi.
-
-
-     294.  Attended Webinar on “Diversity and Inclusion – An Epitome of Unity” on 25th
-              June 2021 organized by NITT-OSA and NITT-SPIE Student Chapters, Dept. of
-              Physics, NIT, Tiruchirappalli.
-
-     295.  Attended Webinar on “Approaching the Research Topic Critically” on 29th
-              June 2021 organized by Vellore Institute of Technology, Chennai.
-
-     296.  Attended Webinar on “Renewable(Solar) Energy- Future for Entrepreneurs” on
-              9th July 2021 organized by Centurion University and FICCI FLO Bhubaneswar
-              Chapter.
-
-     297.  Attended Webinar on “Innovation for Success” on 10th July 2021 organized by
-              SRM Institute of Science and Technology, Chennai.
-
-     298.  Attended Webinar on “Drug Delivery” on 16th July 2021 organized by Research and
-              PG Dept. of Chemistry, Jamal Mohamed College, Tamilnadu.
-
-     299.  Attended National Webinar on “Recent Advances in Chemistry” on 26th July 2021
-              organized by Dept. of Chemistry, Govt. GNA PG College, Bhatapara.
-
-     300.  Attended Webinar on “New Generation of Space Telescopes- Opportunities
-              Unlimited” on 28th July 2021 organized by Dept. of Physics, St. Xavier’s College,
-              Tamil Nadu.
-
-     301.  Attended Webinar on “Nanomaterials in the Service of Mankind” on 30th July
-              2021 organized by Dept. of Science & Humanities, GH Raisoni Institute of Engg. &
-              Technology, Nagpur.
-
-     302.  Attended National Webinar on “Emerging Trends and research perspective of
-              Artificial Intelligence in Electrical Engineering” on 12th August 2021 organized
-              by Nehru Institute of Engineering and Technology, Chennai.
-
-     303.  Attended National Webinar on “Green Audit and Environment Audit for
-              Educational Institution” on 19th August 2021 organized by Nehru Institute of
-              Engineering and Technology, Chennai.
-
-     304.  Attended Webinar on “Role of Chemistry in Nuclear Energy” on 21st August 2021
-              Organized by Dept. of Chemistry, Kumaraguru College of Technology, Coimbatore.
-
-     305.  Attended National Webinar on “3 D Bioprinting – A Chemist’s Perspective” on
-              25th August 2021 organized by Punjab Association Anna Adarsh College for
-              Women, Chennai.
-
-     306.  Attended National Webinar on “Data Analytics” on 28th August 2021 organized by
-              Dept. of ECE, Gopal Krishna College of Engg. and Technology, Odisha.
-     307.  Attended National Webinar on “Application of Cognitive Approach in Teaching
-              and Mentoring” on 28th August 2021 organized by IQAC, St. Charles College of
-              Education, Madurai.
-
-     308.  Attended Webinar on “Drafting Impactful Research Articles, Project Proposals
-              & Patents” on 4th September 2021 organized by IQAC, IIC in association with
-              Dept. of Physics and Chemistry, Ramco Institute of Technology, Chennai.
-
-     309.  Attended Webinar on “Cu composites for Aerospace Electronics Packaging” on
-              6th Oct 2021 organized by Dept. of Chemistry, Kumaraguru College of Technology,
-              Coimbatore.
-
-     310.  Attended International Webinar on “Gagarin to Gaganyaan (G2G)” on 15th Oct
-              2021 organized by TEAM 2020 HELPERS, Non Profitable Organisation, West
-              Bengal, India.
+- Attended Webinar on “Cyber Crimes and Cyber Laws” on 8th June 2021 organized by Institute of Excellence in Management Science, Hubli in association with Vivekanand Institute of Management, Kalaburgi.
+- Attended National Webinar on “Environment and Sustainable Development” held on 24th June, 2021 in association with Center for Environmental Education and Ecological development (CEEED), India, World Environment organization (WEO) & Prakruthi – Environmental Club of Lakireddy Bali Reddy College of Engineering, Mylavaram.
+- Attended Webinar on “ "HAMARA TEJAS"- India's own 4th Gen Fighter” held on 24th June 2021 organized by Department of Electronics and Communication Engineering at Dr. Ambedkar Institute of Technology, Bengaluru.
+- Attended International Webinar on “Nanostructures for Applications Fabricated via the Electrospinning Technique” on 24th June 2021 organized by Dept. of Physics, St. Mary’s College, Thoothukudi.
+- Attended Webinar on “Diversity and Inclusion – An Epitome of Unity” on 25th June 2021 organized by NITT-OSA and NITT-SPIE Student Chapters, Dept. of Physics, NIT, Tiruchirappalli.
+- Attended Webinar on “Approaching the Research Topic Critically” on 29th June 2021 organized by Vellore Institute of Technology, Chennai.
+- Attended Webinar on “Renewable(Solar) Energy- Future for Entrepreneurs” on 9th July 2021 organized by Centurion University and FICCI FLO Bhubaneswar Chapter.
+- Attended Webinar on “Innovation for Success” on 10th July 2021 organized by SRM Institute of Science and Technology, Chennai.
+- Attended Webinar on “Drug Delivery” on 16th July 2021 organized by Research and PG Dept. of Chemistry, Jamal Mohamed College, Tamilnadu.
+- Attended National Webinar on “Recent Advances in Chemistry” on 26th July 2021 organized by Dept. of Chemistry, Govt. GNA PG College, Bhatapara.
+- Attended Webinar on “New Generation of Space Telescopes- Opportunities Unlimited” on 28th July 2021 organized by Dept. of Physics, St. Xavier’s College, Tamil Nadu.
+- Attended Webinar on “Nanomaterials in the Service of Mankind” on 30th July 2021 organized by Dept. of Science & Humanities, GH Raisoni Institute of Engg. & Technology, Nagpur.
+- Attended National Webinar on “Emerging Trends and research perspective of Artificial Intelligence in Electrical Engineering” on 12th August 2021 organized by Nehru Institute of Engineering and Technology, Chennai.
+- Attended National Webinar on “Green Audit and Environment Audit for Educational Institution” on 19th August 2021 organized by Nehru Institute of Engineering and Technology, Chennai.
+- Attended Webinar on “Role of Chemistry in Nuclear Energy” on 21st August 2021 Organized by Dept. of Chemistry, Kumaraguru College of Technology, Coimbatore.
+- Attended National Webinar on “3 D Bioprinting – A Chemist’s Perspective” on 25th August 2021 organized by Punjab Association Anna Adarsh College for Women, Chennai.
+- Attended National Webinar on “Data Analytics” on 28th August 2021 organized by Dept. of ECE, Gopal Krishna College of Engg. and Technology, Odisha.
+- Attended National Webinar on “Application of Cognitive Approach in Teaching and Mentoring” on 28th August 2021 organized by IQAC, St. Charles College of Education, Madurai.
+- Attended Webinar on “Drafting Impactful Research Articles, Project Proposals & Patents” on 4th September 2021 organized by IQAC, IIC in association with Dept. of Physics and Chemistry, Ramco Institute of Technology, Chennai.
+- Attended Webinar on “Cu composites for Aerospace Electronics Packaging” on 6th Oct 2021 organized by Dept. of Chemistry, Kumaraguru College of Technology, Coimbatore.
+- Attended International Webinar on “Gagarin to Gaganyaan (G2G)” on 15th Oct 2021 organized by TEAM 2020 HELPERS, Non Profitable Organisation, West  
+Bengal, India.
 
 **Dr. Rajvir Kaur**
 
