@@ -1,15 +1,18 @@
 # Extramural Activities
 ## National Achievers  
 
-<p align=justify>
-**Harhveer Singh Sekhon of MBA-2005187(Silver Medalist in 30Km Point Race in All India Inter-varsity Track Cycling Champioship Held at Punjabi University,Patiala  from 5th-9th December 2021**  
+<p align=justify>  
+
+**Harhveer Singh Sekhon of MBA-2005187 (Silver Medalist in 30Km Point Race in All India Inter-varsity Track Cycling Championship Held at Punjabi University, Patiala from 5th-9th December 2021**    
 </p>
+
 ![Harsh](Images/Star/1.jpg)
 
 ![Harshveer](Images/Star/2.jpeg)
 
-<p align=justify>
-**Jaaspinder Singh of B.Tech3rd year(2004774) became GOLD Medalist in Long Jump in Khalsa Sports Festival Held at Mata Gujri College,Fatehgarh Sahib  from 17th-18th November 2021**  
+<p align=justify> 
+
+**Jaaspinder Singh of B.Tech 3rd year(2004774) became GOLD Medalist in Long Jump in Khalsa Sports Festival Held at Mata Gujri College,Fatehgarh Sahib  from 17th-18th November 2021**  
 </p>
 
 ![Jaaspinder](Images/Star/7.jpg)  
