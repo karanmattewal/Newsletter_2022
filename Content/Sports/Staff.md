@@ -2,7 +2,7 @@
 
 ### Staff Cricket Matches
 
-![1](Images/Staff/1.JPG)
+![1](Images/Staff/1.jpg)
 
 ![1](Images/Staff/2.JPG)
 
