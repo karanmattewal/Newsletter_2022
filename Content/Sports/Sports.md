@@ -4,7 +4,10 @@
 
 ![GB](Images/gunjan.jpg)
 
+<p align=justify>
 The Sports department works on promotion of personal and professional development of students through designing and implementing programs that support healthy lifestyles and inculcate moral,ethical and spiritual values among them through intra-mural and extra-mural activities.Thus,all students must actively take part in sports activities offered by the college within the campus.
+</p>
+
 **"Stay Active Stay Fit"**
 
 ## Sport's Committee
@@ -17,19 +20,9 @@ The Sports department works on promotion of personal and professional developmen
 - [Intra-murals](Intra.md)
 - [Extra-murals](Extra.md)
 
-## Achievements  
-
-- The college won **IKG PTU Over All Combined Championship Trophy** both in session 2018-19 &19-20.Rs.2 lac for each session was awarded consecutively by IKGPTU, Kapurthala for this outstanding achievements.The college is reigning this Trophy from the last 17 years consecutively.  
-
-![1](Images/overall.JPG)
-
 ## News
 
-![1](Images/News/1.jpg)
-
-## Publications  
-
-- **Bhardwaj G**, **Walia G.K**,**Jain Chahat**. (2020) "Preserving the Healthy Futurity:A New Mentoring Framework for Inculcating the Trend of Sports in Engineering Graduates",in Proceedings of International Conference of Enhancing Skills in Physical Education and Sports Science(ICESPEC-2020)Osmania University Hyderabad,pp 441-443.
+![News](Images/News/14.jpeg)
 
 
 ## Events Organized   
@@ -37,15 +30,24 @@ The Sports department works on promotion of personal and professional developmen
 
 | Sr. No. | Name of Event                                             | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1.       | PTU Inter-college Zonal& Inter-zonal Football Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | 5days | 24th September to 1st October, 2019  | PTU Grant |
-| 2.       | PTU Inter-college Zonal Cricket Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Two Week | 10th Feb.to 2nd March, 2020  | PTU Grant |
-|3.         | FIT INDIA FREEDOM RUN for college staff | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |30th September, 2020  | TEQIP-III |
-|4.        | FIT INDIA ROAD CYCLING EVENT(22Km) for college staff | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |29th October, 2020  | TEQIP-III |
-|5.         |GNE Cricket Tournament for college staff | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |1st to 3rd December, 2020  | TEQIP-III|
-|6.         |FIT INDIA ROAD CYCLING EVENT(22Km) for college staff | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |18th December, 2020  | TEQIP-III |                                       
+| 1.       | GNE Female Staff Cricket Tournament| Dr Gunjan Bhardwaj & S.Suminder Singh | 1day | 30th March, 2021  | Sports Fund |
+| 2.       | GNE Teaching Male Staff Cricket Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh |1 day  | 31th March, 2021  | Sports fund |
+|3.         | GNE Teaching Male Staff Cricket Tournament|  S.Suminder Singh | One Day |1st April, 2021  |Sports Fund |
+|4.        | 15Km Cycling From GNE to KAIND PUll and back | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |7th April, 2021  | Sports Fund|
+|4.        | International Yoga Day | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |21th June, 2021  | Punjab Runners |
+|5.         |GNE Inter-year Football League Tournament  | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |28th to 30th September, 2021  |Sports Fund|
+|6.         |GNE Inter-year Basketball League Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |4th to 6th October, 2021  | Sports Fund |
+|7.         |GNE Inter-year Badminton League | Dr Gunjan Bhardwaj | Two Day |10th to 11th November, 2021  |Sports fund |
+|8.         |GNE Faculty V/S TIET, Patiala Cricket Match | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |14th November, 2021  |Sports fund |
+|9.         |"GPL"GNE PREMIER CRICKET LEAGUE| Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |19th to 21th November, 2021  |Sports fund |
+|10.         |GNE Inter-year Football Knockout Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |23rd to 25th November, 2021  |Sports fund |
+|11.         |GNE Inter-year Volleyball League |  S.Suminder Singh | Three Day |30th to 2th December, 2021  |Sports fund |
+|12.         |GNE Inter-year Basketball League Tournament | Dr Gunjan Bhardwaj | Two Day |1st to 2nd December, 2021  |Sports fund |
+
+
 
 ## Infrastructure Upgradation
 
 -  New Boys Gymnasium on ground floor of Sports Complex  
 
-- Provision of flood lights on one end of the football ground
+- Purchase of 1.5 Ton Tandem Cricket Pitch Roller

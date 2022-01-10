@@ -1,64 +1,29 @@
 # Extramural Activities
-## International & National Achievers  
+## National Achievers  
+
+<p align=justify>  
+
+**Harhveer Singh Sekhon of MBA-2005187 (Silver Medalist in 30Km Point Race in All India Inter-varsity Track Cycling Championship Held at Punjabi University, Patiala from 5th-9th December 2021**    
+</p>
+
+![Harsh](Images/Star/1.jpg)
+
+![Harshveer](Images/Star/2.jpeg)
+
+<p align=justify> 
+
+**Jaaspinder Singh of B.Tech 3rd year(2004774) became GOLD Medalist in Long Jump in Khalsa Sports Festival Held at Mata Gujri College,Fatehgarh Sahib  from 17th-18th November 2021**  
+</p>
+
+![Jaaspinder](Images/Star/7.jpg)  
+
+**IKGPTU Inter-varsity Participation**
 
 
-**Harhveer Singh Sekhon of D4CSE-1606693(Silver Medalist in Asia Cup in Tack Cycling & Twin Gold medalist in All India Road Cycling Inter-versity Championship)**  
-
-![Harshveer](Images/Star/1.jpg)  
-
-![Harshveer1](Images/Star/2.jpg)
-
-**Punarpratap Singh Sidhu of D1CSE-1905032(Siver Medalist in North Zone Skeet Shooting Championship)**  
-
-![Punar](Images/Star/3.jpg)  
-
-**Jaismeen Kaur Toor of D1-B.Arch-1917587(PTU Best Cyclist)**  
-
-![Jaismeen](Images/Star/4.jpg)
-
-**Sandhya kumari of D2CSE-1805221(Brinze Medalist in PTU Crosscuntry Meet)**
-
-![Sandhya](Images/Star/5.JPG)
-
-
-**IKGPTU Inter-college Tournaments
-The teams in different games bagged first three positions in PTU Inter-college Tounaments in boys and girls, respectively**
-
-![1](Images/Teams/1-1st.jpg)
-***Winner Badminton Team***
-
-![1](Images/Teams/2-1st.jpg)
-***Winner Cycling Team***
-
-![1](Images/Teams/3-1st.jpeg)
-***Winner Cycling Team***
-
-![1](Images/Teams/4-1st.jpg)
-***Winner Hockey Team***
-
-![1](Images/Teams/5-1st.jpg)
-***Winner Table-tennis Team***
-
-![1](Images/Teams/6-2nd.jpeg)
-***Runner-up Basketball Team***
-
-![1](Images/Teams/7-2nd.jpg)
-***Runner-up Football Team***
-
-![1](Images/Teams/8-2nd.JPG)
-***Runner-up Cross-Country Team***
-
-![1](Images/Teams/9-3rd.jpeg)
-***Third Basketball Team***
-
-![1](Images/Teams/10-3rd.jpg)
-***Third Lawn-tennis Team***
-
-![1](Images/Teams/11-3rd.jpg)
-***Third Lawn-tennis Team***
-
-![1](Images/Teams/12-3rd.JPG)
-***Third Cross-Country Team***
-
-![1](Images/Teams/13-3rd.jpg)
-***Third Power-Lifting Team***
+| Sr. No. | Name | Roll No. | Branch | Game | Venue | Dates | Photograph |
+| - | -- | - | - |-| - | - | - |
+| 1. | Jaismeen Kaur | 1917587 | B.Arch. |Cycling |Punjabi University,Patiala |5th-9th December 2021 | ![Jaismeen](Images/Star/4.jpg) |
+| 2. | Ayush Jindal|2005172 | M.Tech(Str.Engg.) |Table tennis |Chitkara University,Baddi |30th December2021 to 2nd Januray2022 | ![Ayush](Images/Star/5.jpeg) |
+| 3. | Divyanshu | 1905095 | B.Tech.3rdyrEE |Football |Punjabi University,Patiala |23rd-30th December 2021 | ![Divyanshu](Images/Star/6.jpg) |
+| 4. | Tamanpreet Singh|2104577| B.Tech1st yr(IT) |Table tennis |Chitkara University,Baddi |30th December2021 to 2nd Januray2022 | ![Taman](Images/Star/8.jpeg) |
+| 5. | Rishav Sharma|2004466| B.Tech2nd yr(CE) |Basketball |JMI,New Delhi|15th to 20th December2021  | ![Rishav](Images/Star/9.jpeg) |
