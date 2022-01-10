@@ -4,7 +4,8 @@
 <p align=justify>
 **Harhveer Singh Sekhon of MBA-2005187(Silver Medalist in 30Km Point Race in All India Inter-varsity Track Cycling Champioship Held at Punjabi University,Patiala  from 5th-9th December 2021**  
 </p>
-![Harshveer](Images/Star/1.jpg)  
+![Harshveer](Images/Star/1.jpg)
+ 
 ![Harshveer](Images/Star/2.jpeg)
 
 <p align=justify>
