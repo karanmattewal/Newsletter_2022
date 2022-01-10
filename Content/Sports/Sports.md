@@ -22,7 +22,7 @@ The Sports department works on promotion of personal and professional developmen
 
 ## News
 
-![News](Images/News/14.jpg)
+![News](Images/News/14.jpeg)
 
 
 ## Events Organized   

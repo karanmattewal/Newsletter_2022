@@ -19,7 +19,7 @@
 | Sr. No. | Name | Roll No. | Branch | Game | Venue | Dates | Photograph |
 | - | -- | - | - |-| - | - | - |
 | 1. | Jaismeen Kaur | 1917587 | B.Arch. |Cycling |Punjabi University,Patiala |5th-9th December 2021 | ![Jaismeen](Images/Star/4.jpg) |
-| 2. | Ayush Jindal|2005172 | M.Tech(Str.Engg.) |Table tennis |Chitkara University,Baddi |30th December2021 to 2nd Januray2022 | ![Ayush](Images/Star/5.jpg) |
+| 2. | Ayush Jindal|2005172 | M.Tech(Str.Engg.) |Table tennis |Chitkara University,Baddi |30th December2021 to 2nd Januray2022 | ![Ayush](Images/Star/5.jpeg) |
 | 3. | Divyanshu | 1905095 | B.Tech.3rdyrEE |Football |Punjabi University,Patiala |23rd-30th December 2021 | ![Divyanshu](Images/Star/6.jpg) |
-| 4. | Tamanpreet Singh|2104577| B.Tech1st yr(IT) |Table tennis |Chitkara University,Baddi |30th December2021 to 2nd Januray2022 | ![Taman](Images/Star/8.jpg) |
-| 5. | Rishav Sharma|2004466| B.Tech2nd yr(CE) |Basketball |JMI,New Delhi|15th to 20th December2021  | ![Rishav](Images/Star/9.jpg) |
+| 4. | Tamanpreet Singh|2104577| B.Tech1st yr(IT) |Table tennis |Chitkara University,Baddi |30th December2021 to 2nd Januray2022 | ![Taman](Images/Star/8.jpeg) |
+| 5. | Rishav Sharma|2004466| B.Tech2nd yr(CE) |Basketball |JMI,New Delhi|15th to 20th December2021  | ![Rishav](Images/Star/9.jpeg) |
