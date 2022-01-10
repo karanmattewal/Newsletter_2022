@@ -4,8 +4,12 @@
 
 ![HKG](Images/hkgp.jpg)
 
- **Dr. Harpreet Kaur Grewal**
+<p align=justify>
+Department of Applied Science is a multidisciplinary department and it is functioning with a team of dedicated faculty members who have been actively engaged in imparting quality teaching of the courses in basic science and humanities for graduating engineering students. The core courses offered being Physics, Chemistry, Mathematics, English and Principles of Engineering Economics and Management. Apart from these undergraduate courses, the department is also pursuing research activities in the above-mentioned disciplines. Currently the department is having research scholars in various subjects. The department of Science & Humanities welcomes committed minds to join hands to build a strong dynamic and wholesome department. It is an endeavor of this department so that students find application of science to everyday life, moral and social understanding. At present subjects like Chemistry, English, Mathematics, Physics,Principles of Engineering Economics and Management etc. are engaged by the department.
 
+Dr. Harpreet Kaur Grewal
+
+HOD, Applied Science Department
 ## Department at a Glimpse
 
  <p align=justify>
@@ -72,7 +76,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Sukhminder Singh**
 
-![PG](Images/sukh.jpg)
+![PG](Images/sukhmm.jpg)
 
 - Topped in Engineering Mathematics course conducted by NPTEL, 12 week course, September-December 2020, with a consolidated score of 90% and received Elite+Gold certificate.
 - Successfully completed Laplace Transform course conducted by NPTEL (4 weeks course), September-October 2020, with a consolidated score of 75% and received Elite+Silver certificate.
@@ -123,7 +127,7 @@ Nearly every topic taught during lectures has a related laboratory experiment. A
 
 **Dr. Amanpreet Kaur Sodhi**
 
-  ![HSR](Images/apk.jpg)
+![HSR](Images/apk.jpg)
 
 - Research paper Effect of Integrating industrial and agricultural wastes on concrete performance with and without microbial activity is published in SCI journal - "Environmental science and pollution Research
 - The 'Student Induction Program ' for btech first year students was organised and conducted in nov 2021
