@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 
-![HKG](Images/hkg.jpg)
+![HKG](Images/hkgp.jpg)
 
  **Dr. Harpreet Kaur Grewal**
 
