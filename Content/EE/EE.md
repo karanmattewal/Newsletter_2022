@@ -24,25 +24,25 @@ An industrial visit to NPTI (National Power Training Institute) by Electrical En
 Er. Piyush Kumar Singh, Assistant Director (Thermal), Er. Saurabh Mahajan, Assistant Director (Hydel) of NPTI gave interactive lecture to students about the emerging technologies in the power plant with a need of Renewable Sources. The Students were shown Simulator for the nearby Plant and experienced the practical application of the subjects , they studied in the college. The Department is more keen to organize such industrial visits in future.
 
 
-![NPTI](Images/NPTI1.JPEG)
+![NPTI](Images/NPTI1.jpeg)
 
-![NPTI](Images/NPTI3.JPEG)
+![NPTI](Images/NPTI3.jpeg)
 **Pf. Rupinderjit Singh,Pf. Samreet Kaur and Pf. Baljeet Singh** along with Final year students at National Power Training Institute(NPTI)
 
-![NPTI](Images/NPTI2.JPEG)
+![NPTI](Images/NPTI2.jpeg)
 **Pf.Kanwardeep Singh,Pf.Amrinder Kaur and Pf.Swapandeep Kaur** along with third year students at National Power Training Institute(NPTI)
 
 
 
-![NPTI](Images/VLAB.JPEG)
+![NPTI](Images/VLAB.jpeg)
 (**Pf. Karanbir Singh, Pf.Sukhpal Singh, Pf. Bhawna and Pf. Swapandeep Kaur** ) attended workshop on Virtual Labs on 3rd December 2021.
 
-![Retirement](Images/PFKHS.JPEG)
+![Retirement](Images/PFKHS.jpeg)
 Heartiest of congratulations to **Pf. Khushdeep Singh** on retirement.
 
 
-![MEET](Images/AM.JPEG)
-![MEET](Images/AM2.JPEG)
+![MEET](Images/AM.jpeg)
+![MEET](Images/AM2.jpeg)
 (**Dr. Karwardeep Singh,Pf. Rupinderjit Singh and PF.Arshdeep Kaur**, attended ALUMNI MEET 2021 at GNDEC, Ludhiana
 
 
@@ -171,20 +171,20 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 
  **Sukhchain Singh** (D3EE) made project "**2 meter waring system** for staff who is on COVID -19 Government Duty under the guidance of **Pf. Gagandeep Singh Sodhi**
 
-![project](Images/PROJECT2.JPEG)
+![project](Images/PROJECT2.jpeg)
 **Simran Kaur Rajpal and Tania Sharma** post graduate students worked on smart grid project and got first prize at NITTTR Chandigarh under the guidance of **Pf.Kanwardeep Singh**
 
-![project](Images/PROJECT1.JPEG)
+![project](Images/PROJECT1.jpeg)
 **Arunjot, Rajat Tiyagi, Riaz Mohammad, Mayank Bakshi, Sukhpreet Singh, Puneet Singh** (D4EE) made project on **Electric Vehicle** under the guidance of **Pf. Kuldeep Singh and Pf. Baljeet Singh**
 
 ### Student's Achievements
 
 Project filed for Patent in December 2020.
 
-- **1.Abhishek Goyal, Gurpartap Singh, Kunal Singla and Mainik Walia**
+- **Abhishek Goyal, Gurpartap Singh, Kunal Singla and Mainik Walia**
  made the project "Sky Robot" under the guidance of **Dr. Arvind Dhingra** .This robot is to help maintain a vigil against unwanted intruders. The robot is so designed so as to work effectively during day and night with same efficiency. The robot is capable of sending an alarm in case of any unwanted activity. This will help our soldiers guarding our borders to maintain effective vigil.
 
-- **2. Santokh Singh, Sapandeep Singh,Simranjeet Singh and Harpreet Singh** made the project "Palace Power Saver" under the guidance of **Pf. Arshdeep Kaur**. One of the major reason for designing this project, is the wastage of electricity especially at palaces, libraries, hostels, hotels, cinemas, parking and offices, where no one take responsibility to switch off the electrical equipment. This project is based on an intelligent electricity system which  automatically switched off the light/equipment when the room will empty.
+- **Santokh Singh, Sapandeep Singh,Simranjeet Singh and Harpreet Singh** made the project "Palace Power Saver" under the guidance of **Pf. Arshdeep Kaur**. One of the major reason for designing this project, is the wastage of electricity especially at palaces, libraries, hostels, hotels, cinemas, parking and offices, where no one take responsibility to switch off the electrical equipment. This project is based on an intelligent electricity system which  automatically switched off the light/equipment when the room will empty.
   ![project](Images/ADK.jpg)
   **Project: Palace Power Saver**
 
@@ -193,19 +193,19 @@ Project filed for Patent in December 2020.
 
   - Organised event **Charter’s Day**on 8th of september,2021.
 
-  ![Event](Images/11.JPEG)
+  ![Event](Images/11.jpeg)
 
  **Dr Arvind Dhingra** guided students for their career.
 
   - Organized Competition **Circuit Designing Using Simulation** on 15th September 2021 where Dr.Arvind Dhingra, Pf.Samreet Kaur and Pf.Arshdeep Kaur were judges in the event.
 
-   ![Event](Images/12.JPEG)
+   ![Event](Images/12.jpeg)
 
-   ![Event](Images/13.JPEG)
+   ![Event](Images/13.jpeg)
 **Deepak Kumar** of Electrical Engineering Department won First prize 2nd year.
 
 
 ### Batch 2017-2021
 
-![PASSOUT](Images/2021.JPEG)
+![PASSOUT](Images/2021.jpeg)
 Passout **Batch 2017-2021** of Electrical Engineering Department
