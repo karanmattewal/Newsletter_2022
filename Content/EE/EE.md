@@ -8,7 +8,7 @@ Technical education blended with ethics and quality comprises of one of the most
 I am very hopeful that the publishing of the present College Newsletter will showcase our valuable achievements to the world, which the students and staff have made in spite of all the past and ongoing natural and man-made hurdles.
 I am thankful to God almighty for making us capable to perform these tiny but effective efforts. Last but not the least, I congratulate the whole Editorial Board and all involved for their fine individual and team works.
 
-Dr. Kanwardeep Singh     
+Dr. Navneet Singh Bhangu     
 Associate Professor and H.O.D.    
 (Department of Electrical Engineering)
 
