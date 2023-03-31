@@ -2,7 +2,7 @@
 
 ## Message from HoD's Desk
 
-![KDS](Images/KDS.PNG)
+<img width="284" alt="NSB PFP" src="https://user-images.githubusercontent.com/78653670/229033102-ea5bafb4-0d77-4f24-822f-60ea93264813.png">
 
 Technical education blended with ethics and quality comprises of one of the most powerful tools, which gives shape to the coming generations. We at Guru Nanak Dev Engineering College, Ludhiana are trying our level best to make optimized utilization of modern tools and techniques, so that quality technical education can come within the reach of the large masses of India with convenience and affordability.
 I am very hopeful that the publishing of the present College Newsletter will showcase our valuable achievements to the world, which the students and staff have made in spite of all the past and ongoing natural and man-made hurdles.
@@ -17,12 +17,7 @@ Associate Professor and H.O.D.
 
 **Industrial Visit to NPTI , Nangal** :
 
-An industrial visit to NPTI (National Power Training Institute) by Electrical Engineering Department was organized for Students. The visit held at two different days depending upon the batch. Around 150 students visited the Institute with EED faculty.
-
-
-- ***The organisation of the event*** :
-Er. Piyush Kumar Singh, Assistant Director (Thermal), Er. Saurabh Mahajan, Assistant Director (Hydel) of NPTI gave interactive lecture to students about the emerging technologies in the power plant with a need of Renewable Sources. The Students were shown Simulator for the nearby Plant and experienced the practical application of the subjects , they studied in the college. The Department is more keen to organize such industrial visits in future.
-
+An industrial visit to NPTI (National Power Training Institute), Nagal by Electrical Engineering Department was organized for Third year Students. Around 85 students visited the Institute with EED faculty.Er. Saurabh Mahajan, Assistant Director of NPTI gave interactive lecture to students about the emerging technologies in the power plant with a need of Renewable Sources. The students were shown Simulator for the nearby Plant and experienced the practical application of the subjects, they studied in the college.
 
 ![NPTI](Images/NPTI1.jpeg)
 
